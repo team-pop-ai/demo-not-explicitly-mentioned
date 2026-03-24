@@ -1,0 +1,50 @@
+[
+  {
+    "project_id": "PROJ-001",
+    "customer_id": "CUST-002",
+    "customer_name": "Michael Chen",
+    "system_size_kw": 11.2,
+    "proposal_date": "2024-01-25",
+    "permit_status": "Approved",
+    "installation_date": "2024-03-15",
+    "value": 28480,
+    "status": "Install Scheduled",
+    "timeline": "6-8 weeks"
+  },
+  {
+    "project_id": "PROJ-002", 
+    "customer_id": "CUST-001",
+    "customer_name": "Sarah Martinez",
+    "system_size_kw": 8.5,
+    "proposal_date": "2024-01-18",
+    "permit_status": "Under Review",
+    "installation_date": null,
+    "value": 21675,
+    "status": "Permit Pending",
+    "timeline": "4-6 weeks"
+  },
+  {
+    "project_id": "PROJ-003",
+    "customer_id": "CUST-005",
+    "customer_name": "Lisa Park",
+    "system_size_kw": 6.8,
+    "proposal_date": "2024-02-05",
+    "permit_status": "Not Started",
+    "installation_date": null,
+    "value": 17340,
+    "status": "Proposal Review",
+    "timeline": "TBD"
+  },
+  {
+    "project_id": "PROJ-004",
+    "customer_id": "CUST-006",
+    "customer_name": "Robert Kim",
+    "system_size_kw": 14.7,
+    "proposal_date": "2024-01-10",
+    "permit_status": "Approved",
+    "installation_date": "2024-02-28",
+    "value": 37485,
+    "status": "Installation Complete",
+    "timeline": "Complete"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "name": "Sarah Martinez",
+    "address": "123 Oak Street, San Diego, CA 92101",
+    "contact_info": {
+      "phone": "(619) 555-0123",
+      "email": "sarah.martinez@email.com"
+    },
+    "lead_source": "Automated Digital Campaign",
+    "lead_cost": 18,
+    "utility_company": "SDG&E",
+    "annual_usage_kwh": 12500,
+    "roof_specs": {
+      "size_sqft": 1200,
+      "direction": "South",
+      "shading": "Minimal"
+    },
+    "status": "Proposal Sent",
+    "created_date": "2024-01-15"
+  },
+  {
+    "customer_id": "CUST-002", 
+    "name": "Michael Chen",
+    "address": "456 Pine Avenue, Escondido, CA 92025",
+    "contact_info": {
+      "phone": "(760) 555-0245",
+      "email": "m.chen@techcorp.com"
+    },
+    "lead_source": "Referral Program",
+    "lead_cost": 12,
+    "utility_company": "SDG&E",
+    "annual_usage_kwh": 18900,
+    "roof_specs": {
+      "size_sqft": 1800,
+      "direction": "Southwest",
+      "shading": "Minimal"
+    },
+    "status": "Contract Signed",
+    "created_date": "2024-01-22"
+  },
+  {
+    "customer_id": "CUST-003",
+    "name": "Jennifer Rodriguez",
+    "address": "789 Sunset Drive, Carlsbad, CA 92008",
+    "contact_info": {
+      "phone": "(760) 555-0987",
+      "email": "jrodriguez@gmail.com"
+    },
+    "lead_source": "Social Media Ad",
+    "lead_cost": 25,
+    "utility_company": "SDG&E",
+    "annual_usage_kwh": 9800,
+    "roof_specs": {
+      "size_sqft": 950,
+      "direction": "Southeast",
+      "shading": "Moderate"
+    },
+    "status": "Initial Contact",
+    "created_date": "2024-02-01"
+  },
+  {
+    "customer_id": "CUST-004",
+    "name": "David Thompson",
+    "address": "321 Harbor View, Encinitas, CA 92024",
+    "contact_info": {
+      "phone": "(760) 555-0654",
+      "email": "dthompson@outlook.com"
+    },
+    "lead_source": "Door-to-Door Campaign",
+    "lead_cost": 85,
+    "utility_company": "SDG&E", 
+    "annual_usage_kwh": 16200,
+    "roof_specs": {
+      "size_sqft": 1400,
+      "direction": "South",
+      "shading": "Heavy"
+    },
+    "status": "Qualified Lead",
+    "created_date": "2024-02-03"
+  }
+]

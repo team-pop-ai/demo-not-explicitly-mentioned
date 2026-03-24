@@ -1,0 +1,50 @@
+{
+  "system_types": {
+    "residential": {
+      "price_per_watt": 2.85,
+      "typical_size_range": "6-12 kW",
+      "equipment": "Tier 1 panels, string inverters"
+    },
+    "commercial": {
+      "price_per_watt": 2.25,
+      "typical_size_range": "25-500 kW", 
+      "equipment": "Commercial panels, power optimizers"
+    }
+  },
+  "financing_options": {
+    "cash": {
+      "incentives": "30% Federal Tax Credit",
+      "payback_years": "6-8",
+      "total_savings": "25-year"
+    },
+    "loan": {
+      "typical_apr": "4.99-7.99%",
+      "terms": "10-25 years",
+      "monthly_payment": "Often lower than current utility bill"
+    },
+    "ppa": {
+      "rate": "$0.14-0.18/kWh",
+      "escalator": "2.9% annually",
+      "term": "20-25 years"
+    }
+  },
+  "permit_requirements": {
+    "building_permit": "Required for all installations",
+    "electrical_permit": "Required, includes interconnection",
+    "hoa_approval": "If applicable",
+    "net_metering": "Utility application required"
+  },
+  "installation_timelines": {
+    "design": "1-2 weeks",
+    "permits": "2-6 weeks",
+    "installation": "1-3 days",
+    "inspection": "1-2 weeks",
+    "interconnection": "2-8 weeks"
+  },
+  "warranty_info": {
+    "panels": "25-year performance warranty",
+    "inverters": "10-25 year warranty",
+    "workmanship": "10-year installation warranty",
+    "monitoring": "System performance monitoring included"
+  }
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "jurisdiction_name": "City of San Diego",
+    "permit_requirements": [
+      "Building permit",
+      "Electrical permit", 
+      "Fire setback compliance",
+      "Structural calculations if needed"
+    ],
+    "typical_timeline": "4-6 weeks",
+    "fees": "$180-350 depending on system size",
+    "inspection_stages": ["Rough electrical", "Final electrical", "Building final"],
+    "contact_info": "development.services@sandiego.gov"
+  },
+  {
+    "jurisdiction_name": "City of Escondido",
+    "permit_requirements": [
+      "Building permit",
+      "Electrical permit",
+      "Plan check review"
+    ],
+    "typical_timeline": "3-4 weeks",
+    "fees": "$150-280",
+    "inspection_stages": ["Electrical rough", "Final inspection"],
+    "contact_info": "permits@escondido.org"
+  },
+  {
+    "jurisdiction_name": "Carlsbad",
+    "permit_requirements": [
+      "Building permit", 
+      "Electrical permit",
+      "Fire department review",
+      "Coastal zone compliance if applicable"
+    ],
+    "typical_timeline": "5-7 weeks",
+    "fees": "$200-450",
+    "inspection_stages": ["Electrical", "Building", "Fire safety"],
+    "contact_info": "permits@carlsbadca.gov"
+  },
+  {
+    "jurisdiction_name": "Encinitas",
+    "permit_requirements": [
+      "Building permit",
+      "Electrical permit", 
+      "Zoning compliance",
+      "Historical review if in historic district"
+    ],
+    "typical_timeline": "4-8 weeks",
+    "fees": "$175-325",
+    "inspection_stages": ["Electrical inspection", "Final building"],
+    "contact_info": "planning@encinitasca.gov"
+  }
+]
